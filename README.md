@@ -32,5 +32,5 @@ git clone https://github.com/<org-or-user>/finm3422.git
 cd finm3422
 Student: Isabella Franco
 
+Gene successfully cloned the repo
 
-Student Oscar successfully cloned the repo.
